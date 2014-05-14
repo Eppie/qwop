@@ -1,0 +1,29 @@
+result: won, TIME: 441.566512602, downtime: 0.2, waittime: 0.2
+result: 0.2, TIME: 2.86984586681, downtime: 0.3, waittime: 0.2
+result: won, TIME: 306.556463534, downtime: 0.2, waittime: 0.3
+result: won, TIME: 261.834682148, downtime: 0.2, waittime: 0.4
+result: won, TIME: 220.470075424, downtime: 0.2, waittime: 0.5
+result: won, TIME: 209.065095993, downtime: 0.2, waittime: 0.6
+result: won, TIME: 188.808327965, downtime: 0.2, waittime: 0.7
+result: won, TIME: 238.901595738, downtime: 0.2, waittime: 0.8
+result: won, TIME: 203.956025463, downtime: 0.2, waittime: 0.9
+result: won, TIME: 313.19152383, downtime: 0.2, waittime: 1.0
+result: won, TIME: 293.077303978, downtime: 0.2, waittime: 1.1
+result: won, TIME: 421.547117638, downtime: 0.1, waittime: 0.2
+result: won, TIME: 697.934194419, downtime: 0.1, waittime: 0.7 (105.3 meters!)
+result: won, TIME: 185.270750623, downtime: 0.2, waittime: 0.65
+result: won, TIME: 193.920626285, downtime: 0.2, waittime: 0.75
+result: won, TIME: 201.859767286, downtime: 0.2, waittime: 0.62
+result: won, TIME: 188.903093186, downtime: 0.2, waittime: 0.68
+result: 0, TIME: 5.36832083108, downtime: 0.3, waittime: 0.7
+result: 0.3, TIME: 5.13032158558, downtime: 0.25, waittime: 0.7
+result: won, TIME: 187.361498269, downtime: 0.22, waittime: 0.7
+result: 52.9, TIME: 114.038724488, downtime: 0.21, waittime: 0.7
+result: won, TIME: 187.931565866, downtime: 0.205, waittime: 0.7
+result: won, TIME: 189.827221214, downtime: 0.205, waittime: 0.65
+result: won, TIME: 233.220858152, downtime: 0.2, waittime: 0.7 (not holding p)
+result: won, TIME: 250.788084191, downtime: 0.2, waittime: 0.7 (tapping o)
+result: won, TIME: 194.816957217, downtime: 0.19, waittime: 0.7
+result: won, TIME: 232.970403272, downtime: 0.19, waittime: 0.65
+result: won, TIME: 190.663844142, downtime: 0.2, waittime: 0.65
+result: won, TIME: 203.194145967, downtime: 0.2, waittime: 0.65
